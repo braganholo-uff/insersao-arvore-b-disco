@@ -1,0 +1,6 @@
+PONT 0
+ARQUIVO DE METADADOS:
+2, 0, 444
+ARQUIVO DE DADOS:
+NO: 1, -1, (-1, -1, -1, -1, -1) 
+	7, Bia

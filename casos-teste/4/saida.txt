@@ -1,0 +1,12 @@
+PONT 888
+ARQUIVO DE METADADOS:
+2, 888, 1332
+ARQUIVO DE DADOS:
+NO: 2, 888, (-1, -1, -1, -1, -1) 
+	5, Bruno
+	10, Joao
+NO: 2, 888, (-1, -1, -1, -1, -1) 
+	12, Ana
+	13, Maria
+NO: 1, -1, (0, 444, -1, -1, -1) 
+	11, Vanessa

@@ -1,0 +1,16 @@
+PONT -1
+ARQUIVO DE METADADOS:
+2, 888, 1776
+ARQUIVO DE DADOS:
+NO: 2, 888, (-1, -1, -1, -1, -1) 
+	10, Ana
+	20, Bia
+NO: 2, 888, (-1, -1, -1, -1, -1) 
+	40, Davi
+	50, Eva
+NO: 2, -1, (0, 444, 1332, -1, -1) 
+	30, Caio
+	60, Fabio
+NO: 2, 888, (-1, -1, -1, -1, -1) 
+	70, Gil
+	80, Hugo
